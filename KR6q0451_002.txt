@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:52:19.844173
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:43
 #+TITLE: 慶忠鐵壁機禪師語錄
 #+PROPERTY: CBETA_ID J29nB241
 #+PROPERTY: ID KR6q0451
@@ -13,7 +13,7 @@
  慶忠鐵壁機禪師語錄卷之二¶
 嗣法門人幻敏重編¶
 
-上堂二¶
+* 上堂二¶
 
 師受請住石砫三教寺入院。¶
 
